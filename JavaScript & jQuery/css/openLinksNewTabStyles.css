@@ -1,0 +1,22 @@
+.container1 {
+  margin-top: 30px;
+  padding-left: 30px;
+}
+
+#mainNav a, #extLink a {
+  border: none;
+  color: #000;
+  font-family: 'Ariel' sans-serif;
+  font-size: 1.25rem
+}
+
+#mainNav a:hover, #extLink a:hover {
+  background: none;
+  color: #00577a;
+  font-family: 'Ariel' sans-serif;
+  font-size: 1.4rem
+}
+
+script {
+  font-family: 'Verona' serif;
+}
